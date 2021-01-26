@@ -1,0 +1,35 @@
+@media (max-width: 480px) {
+
+   .navBar {
+       text-align: center;
+       height: 6rem;
+   }
+
+   .navBar h3 {
+       width: 100%;
+       line-height: 1rem;
+   }
+
+   .information {
+       width: 100%;
+   }
+
+   .products {
+       position: relative;
+       right: 0.6rem;
+       width: 95%;
+       margin: 2.5% 0 2.5%;
+   }
+
+   .products-box {
+       width: 45%;
+       height: 9rem;
+   }
+
+   .kind-line {
+       width: 25%;
+       font-size: 4vw;
+   }
+
+}
+
