@@ -31,5 +31,19 @@
        font-size: 4vw;
    }
 
+   .longDiv {
+       width: 50%;
+   }
+
+   .discount-line {
+    width: 25%;
+    font-size: 4vw;
+}
+
+    .second-headline {
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+
 }
 
