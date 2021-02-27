@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ENRC7MFSMR"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-ENRC7MFSMR');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="base.css">
+    <link rel="stylesheet" href="elements.css">
+    <link rel="stylesheet" href="media.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Indie+Flower&family=Josefin+Sans&family=Patrick+Hand&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css"
+        integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous">
+    <title>JaniFutár</title>
+</head>
+
+<body>
+    <div class="products-box">
+        <div class="products-pics">
+            <img class="products-img" src="assets/tomato.jpg" alt="Paradicsom">
+        </div>
+        <div class="products-prices">
+            <p>Lilakáposzta - 499 Ft/kg</p>
+        </div>
+
+    <div class="products-box">
+        <div class="products-pics">
+            <img class="products-img" src="assets/tomato.jpg" alt="Paradicsom">
+        </div>
+        <div class="products-prices">
+            <p>Lilakáposzta - 499 Ft/kg</p>
+        </div>
+    
+        <div class="priceBox">
+            <input class="basket-inp" type="number" min="0.5" max="15" step="0.5">
+                    <p class="pkg">/csomag</p>
+                    <button class="basket-btn"><i class="fas fa-shopping-basket"></i></button>
+                </div>
+
+
+
+            </div>
+
+            <style>
+                .products-box {
+                    position: relative;
+                    display: inline-block;
+                    overflow: hidden;
+                    width: 15rem;
+                    height: 16rem;
+                    margin-top: 1rem;
+                    text-align: center;
+                }
+
+                .products-pics {
+                    position: absolute;
+                    top: 0;
+                    height: 65%;
+                    width: 100%;
+                    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+                }
+
+                .products-prices {
+                    position: absolute;
+                    width: 100%;
+                    height: 15%;
+                    line-height: 1.7rem;
+                    bottom: 2.5rem;
+                    margin-top: 4%;
+                    font-family: 'Patrick Hand', cursive;
+                }
+
+                .priceBox {
+                    position: absolute;
+                    bottom: 0;
+                }
+
+                .products-img {
+                    width: 100%;
+                    height: 100%;
+                }
+
+                .basket-btn {
+                    width: 20%;
+                    height: 3rem;
+                    line-height: 3rem;
+                    font-size: 2vw;
+                    margin: 1rem 0 0 0;
+                    background-color: tomato;
+                    box-shadow: rgba(0, 0, 0, 0.15) 5px 5px 2.6px;
+                    border-radius: 5px;
+                    color: honeydew;
+                    font-family: 'Indie Flower', cursive;
+                }
+
+                .basket-inp {
+                    border: 1px soild black;
+                    width: 30%;
+                }
+
+                .pkg {
+                    display: inline;
+                }
+            </style>
+
+</body>
+
+</html>

@@ -14,11 +14,16 @@
        width: 100%;
    }
 
+   .categories {
+       margin-bottom: 3rem;
+   }
+
    .products {
        position: relative;
        right: 0.6rem;
        width: 95%;
        margin: 2.5% 0 2.5%;
+       float: right;
    }
 
    .products-box {
@@ -26,8 +31,8 @@
        height: 9rem;
    }
 
-   .kind-line {
-       width: 25%;
+   #flip1, #flip2, #flip3, #flip4, #flip5, #flip6 {
+       width: 50%;
        font-size: 4vw;
    }
 
