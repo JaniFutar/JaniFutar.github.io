@@ -28,7 +28,17 @@
 
    .products-box {
        width: 45%;
-       height: 9rem;
+       height: 12rem;
+   }
+
+   .products-pics {
+    height: 50%;
+   }
+
+   .products-prices {
+       bottom: 3.7rem;
+       font-size: 1rem;
+       line-height: 1.2rem;
    }
 
    #flip1, #flip2, #flip3, #flip4, #flip5, #flip6 {
@@ -50,5 +60,13 @@
         border-bottom-right-radius: 0;
     }
 
+    .basket-btn {
+        height: 1.5rem;
+        line-height: 1.5rem;
+    }
+
+    .fa-shopping-basket {
+        font-size: 0.7rem;
+    }
 }
 
