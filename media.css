@@ -1,5 +1,13 @@
 @media (max-width: 480px) {
 
+    .red {
+        float: none;
+    }
+    
+    .green {
+        float: none;
+    }
+
    .navBar {
        text-align: center;
        height: 6rem;
@@ -36,14 +44,23 @@
    }
 
    .products-prices {
-       bottom: 3.7rem;
+       bottom: 3.5rem;
        font-size: 1rem;
        line-height: 1.2rem;
    }
 
    #flip1, #flip2, #flip3, #flip4, #flip5, #flip6 {
-       width: 50%;
+       width: 60%;
        font-size: 4vw;
+   }
+
+   #alapvetoFlip1, #alapvetoFlip2, #alapvetoFlip3 {
+       font-size: 3vw;
+       width: 40%;
+   }
+
+   #flip6 {
+       margin-bottom: 1rem;
    }
 
    .longDiv {
@@ -63,6 +80,7 @@
     .basket-btn {
         height: 1.5rem;
         line-height: 1.5rem;
+        width: 15%;
     }
 
     .fa-shopping-basket {
@@ -71,6 +89,29 @@
 
     .acat {
         font-size: 4vw;
+    }
+
+    .priceBox {
+        bottom: 0.1rem;
+    }
+
+    .choose {
+        bottom: 1.3rem;
+    }
+
+    .stickyBasket {
+        left: 2rem;
+        height: 4rem;
+        width: 4rem;
+    }
+
+    .stickyBasket i {
+        font-size: 2rem;
+    }
+
+    .javaDiv {
+        width: 100%;
+        float: none;
     }
 }
 

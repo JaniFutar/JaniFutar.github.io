@@ -1,13 +1,16 @@
 html {
     font-family: 'Open Sans', sans-serif;
+    text-align: center;
 }
 
 .red {
     color: red;
+    float: left;
 }
 
 .green {
     color: green;
+    float: left;
 }
 
 .navBar h1 {
@@ -112,6 +115,13 @@ html {
     bottom: 0.1rem;
     text-align: center;
     width: 100%;
+    height: 15%;
+    display: none;
+}
+
+.choose {
+    height: 20%;
+    bottom: 0.5rem;
 }
 
 .products-img {
@@ -122,7 +132,6 @@ html {
 .basket-btn {
     width: 20%;
     height: 2rem;
-    font-size: 2vw;
     margin: auto 0;
     background-color: tomato;
     border-radius: 5px;
@@ -133,6 +142,44 @@ html {
 
 .basket-btn:hover {
     background-color: red;
+}
+
+.javaDiv {
+    width: 79%;
+    float: right;
+    display: none;
+}
+
+.javaDiv span {
+    position: absolute;
+    bottom: 0;
+    background-color: green;
+    padding: 0.4rem 0.5rem;
+    border-radius: 50%;
+}
+
+.stickyBasket {
+    height: 6rem;
+    width: 6rem;
+    position: relative;
+    margin: 1rem 5rem 1rem 0;
+    left: 0;
+    padding: 0;
+    border:0;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: tomato;
+}
+
+.stickyBasket i {
+    font-size: 3rem;
+    color: honeydew;
+}
+
+#searchBar {
+    position: relative;
+    right: 0;
+    display: inline-block;
 }
 
 .fa-shopping-basket {
@@ -159,11 +206,16 @@ html {
 .products-prices {
     position: absolute;
     width: 100%;
-    height: 15%;
+    height: 20%;
     line-height: 1.7rem;
-    bottom: 3.5rem;
+    bottom: 2.5rem;
     margin-top: 4%;
     font-family: 'Proza Libre', sans-serif;
+}
+
+.smaller {
+    height: 15%;
+    bottom: 3rem;
 }
 
 .products-img {
@@ -229,7 +281,7 @@ html {
 .discount-pics {
     position: relative;
     top: 0;
-    height: 70%;
+    height: 60%;
     width: 100%;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
     box-shadow: none;
@@ -263,7 +315,6 @@ html {
 }
 
 #flip1, #flip2, #flip4, #flip5 {
-    width: 20%;
     height: 3rem;
     line-height: 3rem;
     font-size: 2vw;
@@ -278,7 +329,6 @@ html {
 }
       
 #flip3 {
-    width: 30%;
     height: 3rem;
     line-height: 3rem;
     font-size: 2vw;
@@ -292,12 +342,7 @@ html {
     text-align: center;
 }
 
-#flip5 {
-    width: 25%;
-}
-
 #flip6 {
-    width: 20%;
     height: 3rem;
     line-height: 3rem;
     font-size: 2vw;
@@ -311,8 +356,32 @@ html {
     text-align: center;
 }
 
+#flip1, #flip2, #flip3, #flip4, #flip5, #flip6 {
+    width: 50%;
+}
+
 #panel1, #panel2, #panel3, #panel4, #panel5, #panel6 {
-    margin-top: 3rem;
+    margin-top: 1rem;
+    display: none;
+}
+
+#alapvetoFlip1, #alapvetoFlip2, #alapvetoFlip3 {
+    width: 30%;
+    height: 2rem;
+    line-height: 2rem;
+    font-size: 1.5vw;
+    margin: 1rem 25% 1rem 25%;
+    background-color: green;
+    box-shadow: rgba(0, 0, 0, 0.15) 5px 5px 2.6px;
+    border-radius: 5px;
+    color: honeydew;
+    font-family: 'Open Sans', sans-serif;
+    display: inline-block;
+    text-align: center;
+}
+
+#alapvetoPanel1, #alapvetoPanel2 {
+    margin-top: 1rem;
     display: none;
 }
             
