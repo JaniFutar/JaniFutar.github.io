@@ -314,7 +314,7 @@ html {
     height: 100%;
 }
 
-#flip1, #flip2, #flip4, #flip5 {
+#flip1, #flip2, #flip4, #flip5, #flip6 {
     height: 3rem;
     line-height: 3rem;
     font-size: 2vw;
@@ -342,7 +342,7 @@ html {
     text-align: center;
 }
 
-#flip6 {
+#flip7 {
     height: 3rem;
     line-height: 3rem;
     font-size: 2vw;
@@ -356,7 +356,7 @@ html {
     text-align: center;
 }
 
-#flip1, #flip2, #flip3, #flip4, #flip5, #flip6 {
+#flip1, #flip2, #flip3, #flip4, #flip5, #flip6, #flip7 {
     width: 50%;
 }
 
@@ -365,11 +365,11 @@ html {
     display: none;
 }
 
-#alapvetoFlip1, #alapvetoFlip2, #alapvetoFlip3 {
+#alapvetoFlip1, #alapvetoFlip2, #alapvetoFlip3, #alapvetoFlip4, #alapvetoFlip5, #alapvetoFlip6 {
     width: 30%;
     height: 2rem;
     line-height: 2rem;
-    font-size: 1.5vw;
+    font-size: 1vw;
     margin: 1rem 25% 1rem 25%;
     background-color: green;
     box-shadow: rgba(0, 0, 0, 0.15) 5px 5px 2.6px;
@@ -380,7 +380,7 @@ html {
     text-align: center;
 }
 
-#alapvetoPanel1, #alapvetoPanel2 {
+#alapvetoPanel1, #alapvetoPanel2, #alapvetoPanel3, #alapvetoPanel4, #alapvetoPanel5, #alapvetoPanel6 {
     margin-top: 1rem;
     display: none;
 }
