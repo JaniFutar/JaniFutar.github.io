@@ -49,12 +49,13 @@
        line-height: 1.2rem;
    }
 
-   #flip1, #flip2, #flip3, #flip4, #flip5, #flip6 {
+   #flip1, #flip2, #flip3, #flip4, #flip5, #flip6, #flip7, #flip8 {
        width: 60%;
        font-size: 4vw;
    }
 
-   #alapvetoFlip1, #alapvetoFlip2, #alapvetoFlip3 {
+   #alapvetoFlip1, #alapvetoFlip2, #alapvetoFlip3, #alapvetoFlip4, #alapvetoFlip5, #alapvetoFlip6,
+   #higeniaFlip1, #higeniaFlip2, #higeniaFlip3, #higeniaFlip4, #higeniaFlip5, #higeniaFlip6 {
        font-size: 3vw;
        width: 40%;
    }

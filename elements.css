@@ -314,7 +314,7 @@ html {
     height: 100%;
 }
 
-#flip1, #flip2, #flip4, #flip5, #flip6 {
+#flip1, #flip2, #flip4, #flip5, #flip6, #flip7 {
     height: 3rem;
     line-height: 3rem;
     font-size: 2vw;
@@ -342,7 +342,7 @@ html {
     text-align: center;
 }
 
-#flip7 {
+#flip8 {
     height: 3rem;
     line-height: 3rem;
     font-size: 2vw;
@@ -356,16 +356,18 @@ html {
     text-align: center;
 }
 
-#flip1, #flip2, #flip3, #flip4, #flip5, #flip6, #flip7 {
+#flip1, #flip2, #flip3, #flip4, #flip5, #flip6, #flip7, #flip8 {
     width: 50%;
 }
 
-#panel1, #panel2, #panel3, #panel4, #panel5, #panel6 {
+#panel1, #panel2, #panel3, #panel4, #panel5, #panel6, #panel7, #panel8 {
     margin-top: 1rem;
     display: none;
 }
 
-#alapvetoFlip1, #alapvetoFlip2, #alapvetoFlip3, #alapvetoFlip4, #alapvetoFlip5, #alapvetoFlip6 {
+#alapvetoFlip1, #alapvetoFlip2, #alapvetoFlip3, #alapvetoFlip4, #alapvetoFlip5, #alapvetoFlip6,
+#higeniaFlip1, #higeniaFlip2, #higeniaFlip3,#higeniaFlip4, #higeniaFlip5, #higeniaFlip6, #higeniaFlip7
+{
     width: 30%;
     height: 2rem;
     line-height: 2rem;
@@ -380,10 +382,14 @@ html {
     text-align: center;
 }
 
-#alapvetoPanel1, #alapvetoPanel2, #alapvetoPanel3, #alapvetoPanel4, #alapvetoPanel5, #alapvetoPanel6 {
+#alapvetoPanel1, #alapvetoPanel2, #alapvetoPanel3, #alapvetoPanel4, #alapvetoPanel5, #alapvetoPanel6,
+#higeniaPanel1, #higeniaPanel2, #higeniaPanel3, #higeniaPanel4, #higeniaPanel5, #higeniaPanel6
+{
     margin-top: 1rem;
     display: none;
 }
+
+
             
 #waters, #pastas {
     width: 90%;

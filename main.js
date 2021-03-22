@@ -25,11 +25,11 @@ $(document).ready(function () {
 
     //Mivel ezt mindegyik panelre meg kell csinalni ezert eleg sok copy-paste munka lenne ezzel - viszont egy (na jo, ketto) "for" ciklussal megoldhatjuk okosba :D
 
-    for (let i = 1; i < 8; i++) { // Ez ugye 1-6-ig fog porogni
+    for (let i = 1; i < 9; i++) { // Ez ugye 1-6-ig fog porogni
         console.log(i);
 
         // Taroljuk el a panelek szamait
-        let panel_numbers = [1, 2, 3, 4, 5, 6, 7];
+        let panel_numbers = [1, 2, 3, 4, 5, 6, 7, 8];
         // Es toroljuk ki belole az aktualis panel szamat
         // Sajnos ez eleg csunya JS-ben :(
         let index = panel_numbers.indexOf(i);
@@ -62,6 +62,22 @@ $(document).ready(function () {
                 $("#alapvetoPanel" + alapvetoPanelNumber.toString()).slideUp(0);
             }
             $("#alapvetoPanel" + i.toString()).slideToggle("slow");
+            });
+
+    }
+
+    for (let i = 1; i < 7; i++) {
+        console.log(i);
+        let higeniaPanelNumbers = [1, 2, 3, 4, 5, 6];
+        let index3 = higeniaPanelNumbers.indexOf(i);
+        if (index3 !== -1) {
+            higeniaPanelNumbers.splice(index3, 1);
+        }
+        $("#higeniaFlip" + i.toString()).click(function (){
+            for (let higeniaPanelNumber of higeniaPanelNumbers) {
+                $("#higeniaPanel" + higeniaPanelNumber.toString()).slideUp(0);
+            }
+            $("#higeniaPanel" + i.toString()).slideToggle("slow");
             });
 
     }
