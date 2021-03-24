@@ -49,70 +49,36 @@
        line-height: 1.2rem;
    }
 
-   #flip1, #flip2, #flip3, #flip4, #flip5, #flip6, #flip7, #flip8 {
+   #flip1, #flip2, #flip3, #flip4, #flip5, #flip6, #flip7, #flip8, #flip9, #flip10, #flip11 {
        width: 60%;
        font-size: 4vw;
    }
 
-   #alapvetoFlip1, #alapvetoFlip2, #alapvetoFlip3, #alapvetoFlip4, #alapvetoFlip5, #alapvetoFlip6,
-   #higeniaFlip1, #higeniaFlip2, #higeniaFlip3, #higeniaFlip4, #higeniaFlip5, #higeniaFlip6 {
-       font-size: 3vw;
-       width: 40%;
+   .onSale, .allGoods {
+       width: 100%;
+       float: none;
    }
 
-   #flip6 {
-       margin-bottom: 1rem;
-   }
-
-   .longDiv {
-       width: 50%;
+   #discount {
+       width: 85%;
+       font-size: 5vw;
+       padding: 0 0.5rem 0 0.5rem;
+       border: 1px solid black;
+       border-radius: 0;
    }
 
    .discount-line {
     width: 25%;
     font-size: 4vw;
-}
+    }
 
     .second-headline {
         border-top-right-radius: 0;
         border-bottom-right-radius: 0;
     }
 
-    .basket-btn {
-        height: 1.5rem;
-        line-height: 1.5rem;
-        width: 15%;
-    }
-
-    .fa-shopping-basket {
-        font-size: 0.7rem;
-    }
-
     .acat {
         font-size: 4vw;
     }
 
-    .priceBox {
-        bottom: 0.1rem;
-    }
-
-    .choose {
-        bottom: 1.3rem;
-    }
-
-    .stickyBasket {
-        left: 2rem;
-        height: 4rem;
-        width: 4rem;
-    }
-
-    .stickyBasket i {
-        font-size: 2rem;
-    }
-
-    .javaDiv {
-        width: 100%;
-        float: none;
-    }
 }
-

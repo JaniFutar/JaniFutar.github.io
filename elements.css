@@ -30,6 +30,10 @@ html {
     float: right;
 }
 
+.left {
+    float: left;
+}
+
 .navBar {
     height: 3rem;
     line-height: 3rem;
@@ -105,7 +109,7 @@ html {
     display: inline-block;
     overflow: hidden;
     width: 15rem;
-    height: 17rem;
+    height: 18.5rem;
     margin-top: 1rem;
     text-align: center;
 }
@@ -127,59 +131,6 @@ html {
 .products-img {
     width: 100%;
     height: 100%;
-}
-
-.basket-btn {
-    width: 20%;
-    height: 2rem;
-    margin: auto 0;
-    background-color: tomato;
-    border-radius: 5px;
-    color: honeydew;
-    border: 0;
-    box-sizing: border-box;
-}
-
-.basket-btn:hover {
-    background-color: red;
-}
-
-.javaDiv {
-    width: 79%;
-    float: right;
-    display: none;
-}
-
-.javaDiv span {
-    position: absolute;
-    bottom: 0;
-    background-color: green;
-    padding: 0.4rem 0.5rem;
-    border-radius: 50%;
-}
-
-.stickyBasket {
-    height: 6rem;
-    width: 6rem;
-    position: relative;
-    margin: 1rem 5rem 1rem 0;
-    left: 0;
-    padding: 0;
-    border:0;
-    border-radius: 50%;
-    display: inline-block;
-    background-color: tomato;
-}
-
-.stickyBasket i {
-    font-size: 3rem;
-    color: honeydew;
-}
-
-#searchBar {
-    position: relative;
-    right: 0;
-    display: inline-block;
 }
 
 .fa-shopping-basket {
@@ -273,8 +224,8 @@ html {
     position: relative;
     display: inline-block;
     overflow: hidden;
-    width: 19rem;
-    height: 22rem;
+    width: 16rem;
+    height: 19rem;
     margin-top: 1.5rem;
 }
 
@@ -291,7 +242,7 @@ html {
     position: relative;
     bottom: 3%;
     width: 100%;
-    height: 15%;
+    height: 20%;
     line-height: 1.5rem;
     font-size: 1.3rem;
     margin-top: 4%;
@@ -300,7 +251,7 @@ html {
 
 .discount-priceNew {
     width: 100%;
-    height: 5%;
+    height: 10%;
     position: relative;
     bottom: 0.7rem;
     line-height: 1rem;
@@ -314,27 +265,13 @@ html {
     height: 100%;
 }
 
-#flip1, #flip2, #flip4, #flip5, #flip6, #flip7 {
-    height: 3rem;
-    line-height: 3rem;
-    font-size: 2vw;
-    margin: 1rem 0 1rem 0;
+#flip1, #flip2, #flip3, #flip4, #flip5, #flip6, #flip7, #flip8, #flip9, #flip10, #flip11 {
+    height: 2rem;
+    line-height: 2rem;
+    font-size: 1.5vw;
+    margin: 0 0 0.5rem 0;
     background-color: #6CC15A;
-    box-shadow: rgba(0, 0, 0, 0.15) 5px 5px 2.6px;
-    border-radius: 5px;
-    color: honeydew;
-    font-family: 'Open Sans', sans-serif;
-    display: inline-block;
-    text-align: center;
-}
-      
-#flip3 {
-    height: 3rem;
-    line-height: 3rem;
-    font-size: 2vw;
-    margin: 1rem 0 1rem 0;
-    background-color: #6CC15A;
-    box-shadow: rgba(0, 0, 0, 0.15) 5px 5px 2.6px;
+    letter-spacing: 1px;
     border-radius: 5px;
     color: honeydew;
     font-family: 'Open Sans', sans-serif;
@@ -342,62 +279,32 @@ html {
     text-align: center;
 }
 
-#flip8 {
+#discount {
     height: 3rem;
+    width: 90%;
     line-height: 3rem;
     font-size: 2vw;
     margin: 1rem 0 0 0;
     background-color: tomato;
-    box-shadow: rgba(0, 0, 0, 0.15) 5px 5px 2.6px;
     border-radius: 5px;
     color: honeydew;
     font-family: 'Open Sans', sans-serif;
     display: inline-block;
     text-align: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 
-#flip1, #flip2, #flip3, #flip4, #flip5, #flip6, #flip7, #flip8 {
-    width: 50%;
+#flip1, #flip2, #flip3, #flip4, #flip5, #flip6, #flip7, #flip8, #flip9, #flip10, #flip11 {
+    width: 40%;
 }
 
-#panel1, #panel2, #panel3, #panel4, #panel5, #panel6, #panel7, #panel8 {
+#panel1, #panel2, #panel3, #panel4, #panel5, #panel6, #panel7, #panel8, #panel9, #panel10, #panel11 {
     margin-top: 1rem;
     display: none;
 }
 
-#alapvetoFlip1, #alapvetoFlip2, #alapvetoFlip3, #alapvetoFlip4, #alapvetoFlip5, #alapvetoFlip6,
-#higeniaFlip1, #higeniaFlip2, #higeniaFlip3,#higeniaFlip4, #higeniaFlip5, #higeniaFlip6, #higeniaFlip7
-{
-    width: 30%;
-    height: 2rem;
-    line-height: 2rem;
-    font-size: 1vw;
-    margin: 1rem 25% 1rem 25%;
-    background-color: green;
-    box-shadow: rgba(0, 0, 0, 0.15) 5px 5px 2.6px;
-    border-radius: 5px;
-    color: honeydew;
-    font-family: 'Open Sans', sans-serif;
-    display: inline-block;
-    text-align: center;
-}
-
-#alapvetoPanel1, #alapvetoPanel2, #alapvetoPanel3, #alapvetoPanel4, #alapvetoPanel5, #alapvetoPanel6,
-#higeniaPanel1, #higeniaPanel2, #higeniaPanel3, #higeniaPanel4, #higeniaPanel5, #higeniaPanel6
-{
-    margin-top: 1rem;
-    display: none;
-}
-
-
-            
-#waters, #pastas {
-    width: 90%;
-    margin-bottom: 0.1rem;
-    text-align: center;
-}
-
-.goods-inp {
-    width: 30%;
-    text-align: center;
+.onSale, .allGoods {
+    width: 79%;
+    float: right;
 }
