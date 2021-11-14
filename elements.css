@@ -81,8 +81,6 @@ html {
     font-family: 'Proza Libre', sans-serif;
     letter-spacing: 2px;
     box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
 }
 
 .second-headline2 {
@@ -94,8 +92,6 @@ html {
     font-family: 'Proza Libre', sans-serif;
     letter-spacing: 2px;
     box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
 }
 
 .information p, .information li {
@@ -125,6 +121,7 @@ html {
     height: 18.5rem;
     margin-top: 1rem;
     text-align: center;
+    border: black 1px solid;
 }
 
 .priceBox {
@@ -278,46 +275,53 @@ html {
     height: 100%;
 }
 
-#flip1, #flip2, #flip3, #flip4, #flip5, #flip6, #flip7, #flip8, #flip9, #flip10, #flip11 {
+#flip1, #flip2, #flip3, #flip4, #flip5, #flip6, #flip7, #flip8, #flip9, #flip10, #flip11, #flip111, #flip22 {
     height: 2rem;
     line-height: 2rem;
     font-size: 1.5vw;
     margin: 0 0 0.5rem 0;
     background-color: #6CC15A;
     letter-spacing: 1px;
-    border-radius: 5px;
+    border: 1px green solid;
     color: honeydew;
     font-family: 'Open Sans', sans-serif;
     display: inline-block;
     text-align: center;
-}
-
-#discount {
-    height: 3rem;
-    width: 90%;
-    line-height: 3rem;
-    font-size: 2vw;
-    margin: 1rem 0 0 0;
-    background-color: tomato;
-    border-radius: 5px;
-    color: honeydew;
-    font-family: 'Open Sans', sans-serif;
-    display: inline-block;
-    text-align: center;
-    padding-left: 1rem;
-    padding-right: 1rem;
-}
-
-#flip1, #flip2, #flip3, #flip4, #flip5, #flip6, #flip7, #flip8, #flip9, #flip10, #flip11 {
     width: 40%;
 }
 
-#panel1, #panel2, #panel3, #panel4, #panel5, #panel6, #panel7, #panel8, #panel9, #panel10, #panel11 {
+#flip31, #flip32, #flip33, #flip34, #flip35, #flip36 {
+    height: 2rem;
+    line-height: 2rem;
+    font-size: 1.5vw;
+    margin: 0 0 0.5rem 0;
+    background-color: #4f8f43;
+    letter-spacing: 1px;
+    border: 1px green solid;
+    color: honeydew;
+    font-family: 'Open Sans', sans-serif;
+    display: inline-block;
+    text-align: center;
+    width: 35%;
+}
+
+#flip111 {
+    background-color: tomato;
+    width: 81%;
+}
+
+#flip22 {
+    background-color: green;
+    width: 81%;
+}
+
+#panel1, #panel2, #panel3, #panel4, #panel5, #panel6, #panel7, #panel8, #panel9, #panel10, #panel11, #panel111, #panel22 {
     margin-top: 1rem;
     display: none;
 }
 
-.onSale, .allGoods {
+.allGoods {
+    margin-top: 1rem;
     width: 79%;
     float: right;
 }

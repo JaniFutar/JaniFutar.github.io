@@ -3,7 +3,7 @@ $(document).ready(function () {
 
     $('.acat').click(function () {
 
-        for (let i = 0; i < 12; i++) {
+        for (let i = 0; i < 14; i++) {
             $("#panel" + i.toString()).slideUp("slow");
         }
     });
@@ -25,11 +25,11 @@ $(document).ready(function () {
 
     //Mivel ezt mindegyik panelre meg kell csinalni ezert eleg sok copy-paste munka lenne ezzel - viszont egy (na jo, ketto) "for" ciklussal megoldhatjuk okosba :D
 
-    for (let i = 1; i < 12; i++) { // Ez ugye 1-6-ig fog porogni
+    for (let i = 1; i < 14; i++) { // Ez ugye 1-6-ig fog porogni
         console.log(i);
 
         // Taroljuk el a panelek szamait
-        let panel_numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
+        let panel_numbers = [111, 22, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
         // Es toroljuk ki belole az aktualis panel szamat
         // Sajnos ez eleg csunya JS-ben :(
         let index = panel_numbers.indexOf(i);
