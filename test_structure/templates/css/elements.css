@@ -1,0 +1,270 @@
+html {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+
+.information {
+    text-align: center;
+    width: 20%;
+    float: left;
+}
+
+.information h1 {
+    font-size: 1.5rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.second-headline {
+    background-color: green;
+    color: honeydew;
+    font-weight: bold;
+    padding: 0.5rem 0.5rem;
+    margin: 0.5rem 0;
+    font-family: 'Proza Libre', sans-serif;
+    letter-spacing: 2px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
+.second-headline2 {
+    background-color: red;
+    color: honeydew;
+    font-weight: bold;
+    padding: 0.5rem 0.5rem;
+    margin: 0.5rem 0;
+    font-family: 'Proza Libre', sans-serif;
+    letter-spacing: 2px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
+.information p, .information li {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.bankcard, .commercial {
+    width: 100%;
+}
+
+.categories {
+    text-align: center;
+}
+
+.products {
+    width: 100%;
+    height: 100%;
+    float: left;
+    text-align: center;
+}
+
+.products-box {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    width: 15rem;
+    height: 18.5rem;
+    margin-top: 1rem;
+    text-align: center;
+    border: black 1px solid;
+}
+
+.priceBox {
+    position: absolute;
+    bottom: 0.1rem;
+    text-align: center;
+    width: 100%;
+    height: 15%;
+    display: none;
+}
+
+.choose {
+    height: 20%;
+    bottom: 0.5rem;
+}
+
+.products-img {
+    width: 100%;
+    height: 100%;
+}
+
+.fa-shopping-basket {
+    font-size: 1rem;
+}
+
+.basket-inp {
+    border: 1px soild black;
+    width: 20%;
+}
+
+.pkg {
+    display: inline;
+}
+
+.products-pics {
+    position: absolute;
+    top: 0;
+    height: 65%;
+    width: 100%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.products-prices {
+    position: absolute;
+    width: 100%;
+    height: 20%;
+    line-height: 1.7rem;
+    bottom: 2.5rem;
+    margin-top: 4%;
+    font-family: 'Proza Libre', sans-serif;
+}
+
+.smaller {
+    height: 15%;
+    bottom: 3rem;
+}
+
+.products-img {
+    width: 100%;
+    height: 100%;
+}
+
+.acat {
+    width: 20%;
+    height: 3rem;
+    line-height: 3rem;
+    font-size: 2vw;
+    margin: 3rem auto;
+    background-color: #6CC15A;
+    box-shadow: rgba(0, 0, 0, 0.15) 5px 5px 2.6px;
+    border-radius: 5px;
+    color: honeydew;
+    font-family: 'Proza Libre', sans-serif;
+    display: block;
+    text-decoration: none;
+}
+
+.kind-line {
+    width: 20%;
+    height: 3rem;
+    line-height: 3rem;
+    font-size: 2vw;
+    margin: 1rem 0 1rem 0;
+    background-color: #6CC15A;
+    box-shadow: rgba(0, 0, 0, 0.15) 5px 5px 2.6px;
+    border-radius: 5px;
+    color: honeydew;
+    font-family: 'Indie Flower', cursive;
+    display: inline-block;
+}
+
+.longDiv {
+    width: 35%;
+}
+
+.discount-line {
+    width: 20%;
+    height: 3rem;
+    line-height: 3rem;
+    font-size: 2vw;
+    margin: 1rem 0 0 0;
+    background-color: tomato;
+    box-shadow: rgba(0, 0, 0, 0.15) 5px 5px 2.6px;
+    border-radius: 5px;
+    color: honeydew;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.discount-box {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    width: 15rem;
+    height: 18rem;
+    margin-top: 1.5rem;
+}
+
+.discount-pics {
+    position: relative;
+    top: 0;
+    height: 60%;
+    width: 100%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    box-shadow: none;
+}
+
+.discount-priceOld {
+    position: relative;
+    bottom: 3%;
+    width: 100%;
+    height: 20%;
+    line-height: 1.5rem;
+    font-size: 1.3rem;
+    margin-top: 4%;
+    font-family: 'Proza Libre', sans-serif;
+}
+
+.discount-priceNew {
+    width: 100%;
+    height: 10%;
+    position: relative;
+    bottom: 0.7rem;
+    line-height: 1rem;
+    font-size: 1rem;
+    font-family: 'Proza Libre', sans-serif;
+    overflow: visible;
+}
+
+.products-img, .discount-img {
+    width: 100%;
+    height: 100%;
+}
+
+#flip1, #flip2, #flip3, #flip4, #flip5, #flip6, #flip7, #flip8, #flip9, #flip10, #flip11, #flip111, #flip22 {
+    height: 2rem;
+    line-height: 2rem;
+    font-size: 1.5vw;
+    margin: 0 0 0.5rem 0;
+    background-color: #6CC15A;
+    letter-spacing: 1px;
+    border: 1px green solid;
+    color: honeydew;
+    font-family: 'Open Sans', sans-serif;
+    display: inline-block;
+    text-align: center;
+    width: 40%;
+}
+
+#flip31, #flip32, #flip33, #flip34, #flip35, #flip36 {
+    height: 2rem;
+    line-height: 2rem;
+    font-size: 1.5vw;
+    margin: 0 0 0.5rem 0;
+    background-color: #4f8f43;
+    letter-spacing: 1px;
+    border: 1px green solid;
+    color: honeydew;
+    font-family: 'Open Sans', sans-serif;
+    display: inline-block;
+    text-align: center;
+    width: 35%;
+}
+
+#flip111 {
+    background-color: tomato;
+    width: 81%;
+}
+
+#flip22 {
+    background-color: green;
+    width: 81%;
+}
+
+#panel1, #panel2, #panel3, #panel4, #panel5, #panel6, #panel7, #panel8, #panel9, #panel10, #panel11, #panel111, #panel22 {
+    margin-top: 1rem;
+    display: none;
+}
+
+.allGoods {
+    margin-top: 1rem;
+    width: 79%;
+    float: right;
+}

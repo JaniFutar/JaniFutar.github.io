@@ -1,0 +1,35 @@
+Tarkabab	kg	1299			
+Fehérbab	kg	1299			assets/szárazáru/fehérbab.jpg
+Sárgaborsó	kg	399			
+Lencse	kg	699			assets/szárazáru/lencse.jpg
+Mák	kg	1999			
+Darált mák	kg	2999			
+Dió	kg	3999			
+Gersli	kg	169			
+Aszaltszilva	kg	169			
+Mazsola	kg	169			
+Aranymazsola	kg	169			
+Aszalt sárgabarack	kg	169			
+Datolya	kg	169			
+Füge	kg	169			
+Reál Finomliszt	1kg	199			
+Reál Rétesliszt	1kg	229			
+Reál Búzadara	1kg	229			
+Szatmári Finomliszt	1kg	229			
+Szatmári Rétesliszt	1kg	249			
+Szatmári Búzadara	1kg	249			
+Gyermelyi Finomliszt	1kg	?			
+Gyermelyi Rétesliszt	1kg	?			
+Máktöltelék	250g	499			
+Diótöltelék	250g	599			
+Mazsola	100g	239			
+Kókuszreszelék	100g	239			
+Vénusz Étolaj	1l	799			assets/Savanyúságok/vénuszétolaj.jpg
+Reál Étolaj	1l	649			
+Reál Étolaj	2l	1399			
+Romeria Olivaolaj	1l	1499			
+Burg Ételecet	10% - 1l	239			
+Burg Ételecet	20% - 1l	349			
+Asztali Só	1kg	119			
+Tengeri Só	1kg	229			
+Vákuum Só	1kg	169			

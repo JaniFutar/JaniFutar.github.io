@@ -1,0 +1,42 @@
+Fürtös paradicsom	kg	799			assets/Zöldségek/paradicsomfürtös2.jpg
+Koktélparadicsom	kg	1699			assets/Zöldségek/koktélparadicsom1.jpg
+Burgonya	kg	199			assets/Zöldségek/burgonyadraga.JPG
+Burgonya apró	kg	129			assets/Zöldségek/burgonyaapro.JPG
+Sárgaburgonya	kg	249			assets/Zöldségek/burgonya új.jpg
+Fejeskáposzta	kg	299			assets/Zöldségek/fejeskáposzta1.jpg
+Kelkáposzta	kg	599			assets/Zöldségek/kelkáposzta.jpg
+Lilakáposzta	kg	399			assets/Zöldségek/Lilakáposzta.JPG
+Gyömbér	kg	1999			assets/Zöldségek/gyomber.JPG
+Karfiol	kg	249			assets/Zöldségek/karfiol1.jpg
+Vöröshagyma	kg	199			assets/Zöldségek/vöröshagyma.jpg
+Lilahagyma	kg	399			assets/Zöldségek/lilahagyma.jpg
+Fokhagyma	kg	1699			assets/Zöldségek/Fokhagyma.jpg
+Újhagyma	csomó	299			assets/Zöldségek/újhagyma 1.jpg
+Sárgarépa	kg	299			assets/Zöldségek/repa1.jpg
+Zöldséggyökér	kg	799			assets/Zöldségek/fehér répa.jpg
+Zödséggyökér Extra	kg	1299			assets/Zöldségek/zöldséggyökéretra1.jpg
+TV Paprika lecsó	kg	499			assets/Zöldségek/lecsópaprika.jpg
+TV Paprika Extra	kg	699			assets/Savanyúságok/tv paprika.jpg
+Bocskorpaprika	kg	1399			assets/Zöldségek/bocskorpaprika.jpg
+Kaliforniai Paprika	kg	1199			assets/Zöldségek/kaliforniai paprika.jpg
+Trikolor Paprika	kg	1199			
+Kápia Paprika	kg	799			
+Hegyes erős paprika lédig	kg	899			assets/Zöldségek/hegyeserőslédig.jpg
+Hegyes erős paprika darabos	db	199			assets/Zöldségek/hegyeserősdarabos1.jpg
+Fejessaláta	db	199			assets/Zöldségek/fejessaláta2.jpg
+Sampion Gomba	kg	999			assets/Zöldségek/sampion gomba.jpg
+Laska Gomba	kg	1199			
+Cukkini	kg	899			assets/Zöldségek/cukkini2.JPG
+Padlizsán	kg	699			
+Kígyóuborka	kg	799			assets/Zöldségek/kigyóuborka.jpg
+Zeller zölddel	db	299			assets/Zöldségek/Zeller zölddel.jpg
+Zeller	kg	499			assets/Zöldségek/zeller.jpg
+Sörretek	db	179			assets/Zöldségek/Sörretek.JPG
+Piros retek	csomó	299			assets/Zöldségek/pirosretek1.jpg
+Karalábé	db	299			assets/Zöldségek/karalábé.jpg
+Póréhagyma	db	599			
+Petrezselyemzöld	csomó	59			assets/Zöldségek/petrezselyem.jpg
+Kapor	csomó	99			assets/Zöldségek/kapor.jpg
+Édesburgonya	kg	899			assets/Zöldségek/edesburgonya.jpg
+Sütőtök	kg	249			
+Bogyeszlói paprika	kg	899			assets/Zöldségek/bogyeszpaprika1.jpg

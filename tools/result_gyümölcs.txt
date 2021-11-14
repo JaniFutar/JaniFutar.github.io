@@ -1,0 +1,20 @@
+Szőlő pannónia	kg	599			assets/gyümölcsök/szolopannonia.JPG
+Szőlő muskotályos	kg	799			assets/gyümölcsök/szolomuskotaly.JPG
+Szőlő hamburgi muskotályos	kg	799			
+Szőlő Saszla	kg	599			
+Banán	kg	599			assets/gyümölcsök/banán másolata.jpg
+Kiwi	kg	999			assets/gyümölcsök/Kiwi.JPG
+Mandarin-Clementin	kg	799			assets/gyümölcsök/mandarin1.JPG
+Narancs Extra	kg	899			assets/gyümölcsök/narancs.jpg
+Olasz Szőlő fehér	kg	899			assets/gyümölcsök/szoloolasz.JPG
+Szőlő fekete	kg	1899			assets/gyümölcsök/
+Szőlő rosé	kg	1899			assets/gyümölcsök/szőlőrose.jpg
+Alma Idared	kg	399			assets/gyümölcsök/almaidared másolata.jpg
+Alma Golden	kg	299			assets/gyümölcsök/almagolden1 másolata.jpg
+Alma Starking	kg	499			assets/gyümölcsök/almastarking1 másolata.jpg
+Alma Jonagored	kg	399			assets/gyümölcsök/almajonagored.jpg
+Körte Vilmos	kg	599			assets/gyümölcsök/kortevilmos.JPG
+Körte Kaiser	kg	899			assets/gyümölcsök/körtekaiser1 másolata.jpg
+Szilva	kg	599			assets/gyümölcsök/szilva1.jpg
+Áfonya	kg	2999			assets/gyümölcsök/áfonya1 másolata.jpg
+Grapefruit	kg	899			assets/gyümölcsök/grapefruit.JPG

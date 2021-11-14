@@ -1,0 +1,9 @@
+Savanyított káposzta	csomag	599			assets/Savanyúságok/savanyítottkaposta.JPG
+Savanyított hasáb	csomag	799			assets/Savanyúságok/savanyitottkaposztafej.JPG
+Csalamádé csemege/csípős	csomag	499			assets/Savanyúságok/csalamadé.JPG
+Vegyes darabos savanyúság	csomag	499			
+Csemege uborka	csomag	499			assets/Savanyúságok/uborkacsemege.JPG
+Kovászos uborka	csomag	499			assets/Savanyúságok/uborkakovaszos.JPG
+Almapaprika	csomag	499			assets/Savanyúságok/almapaprika.JPG
+Töltött almapaprika	csomag	699			
+Cékla	csomag	699			assets/Savanyúságok/cekla.JPG

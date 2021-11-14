@@ -1,0 +1,8 @@
+EuroDog kutya-macska szalámi 1 kg	<small>/csirke, marha/</small>	399			
+EuroDog kutyaeledel konzerv 1240g	<small>/vadas, marhás, májas/</small>	399			
+EuroCat macskakonzerv 415g	<small>/hal, csirke, marha/</small>	189			assets/Savanyúságok/eurocat macskakonzerv.jpg
+Reno alutasakos macskaeledel		499			assets/Savanyúságok/renomacska kicsi.jpg
+Panzi szilikonos macskaalom 5kg		2199			
+EuroDog száraz kutyatáp 10kg	<small>/marhás, csirkés/</small>	2999			
+EuroDog száraz kutyatáp 3kg	<small>/marhás, csirkés/</small>	999			assets/Savanyúságok/eurodog 3kg száraz.jpg
+Reno macskatáp 1 kg	<small>/marha, baromfi/</small>	649			assets/Savanyúságok/renomacska1kg.jpg

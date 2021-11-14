@@ -8,11 +8,12 @@
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
-
         gtag('config', 'G-ENRC7MFSMR');
     </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="modal.css">
+    <link rel="stylesheet" href="chart.css">
     <link rel="stylesheet" href="base.css">
     <link rel="stylesheet" href="elements.css">
     <link rel="stylesheet" href="media.css">
@@ -39,8 +40,9 @@
 
         </div>
         <div class="slogen">
-            <h1><b>Házhoz visszük!</b></h1>
+            <h1><b>Házhoz visszük!</b></h1><a style="font-size: xx-large;" href="#open-modal">🛒</a>
             <h3>Zöldség-Gyümölcs-Élelmiszer kiszállítás <b>Salgótarján</b> és környékén</h3>
+
         </div>
 
         <div class="information">
@@ -276,6 +278,119 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="main.js"></script>
+    <div class="modal-container">
+        <div class="interior">
+
+        </div>
+    </div>
+    <div id="open-modal" class="modal-window">
+        <div>
+            <div class="heading">
+                <h1>
+                  A kosara tartalma:
+                </h1>
+          
+                <a href="#/" class="visibility-cart transition is-open">X</a>
+              </div>
+          
+              <div class="cart transition is-open">
+          
+          
+                <div class="table">
+          
+                  <div class="layout-inline row th">
+                    <div class="col col-pro">Termék</div>
+                    <div class="col col-price align-center ">
+                      Ár/db
+                    </div>
+                    <div class="col col-qty align-center">Mennyiség</div>
+          
+                    <div class="col">Összesen:</div>
+                  </div>
+          
+          
+                  <div class="layout-inline row row-bg2">
+          
+                    <div class="col col-pro layout-inline">
+          
+                      <p>Tricolor Fusilini 500g</p>
+                    </div>
+          
+                    <div class="col col-price col-numeric align-center ">
+                      <p>599.- Ft</p>
+                    </div>
+          
+                    <div class="col col-qty  layout-inline">
+                      <a href="#" class="qty qty-minus ">-</a>
+                      <input type="numeric" value="3" />
+                      <a href="#" class="qty qty-plus">+</a>
+                    </div>
+          
+          
+                    <div class="col col-total col-numeric">
+                      <p>1797.- Ft</p>
+                    </div>
+          
+                    <div>
+                      <i class="fas fa-trash"></i>
+                    </div>
+          
+                  </div>
+          
+                  <div class="layout-inline row row-bg2">
+          
+                    <div class="col col-pro layout-inline">
+          
+                      <p>Paradicsomlé 100% 1L</p>
+                    </div>
+          
+                    <div class="col col-price col-numeric align-center ">
+                      <p>449.- Ft</p>
+                    </div>
+          
+                    <div class="col col-qty  layout-inline">
+                      <a href="#" class="qty qty-minus ">-</a>
+                      <input type="numeric" value="4" />
+                      <a href="#" class="qty qty-plus">+</a>
+                    </div>
+          
+          
+                    <div class="col col-total col-numeric">
+                      <p>1796.- Ft</p>
+                    </div>
+          
+                    <div>
+                      <i class="fas fa-trash"></i>
+                    </div>
+          
+                  </div>
+          
+                  <div class="tf">
+                    <div class="row layout-inline">
+          
+                      <div class="col"></div>
+                    </div>
+                    <div class="row layout-inline">
+                      <div class="col">
+                        <p>Szállítási díj:</p>
+                      </div>
+                      <div class="col">0 Ft</div>
+                    </div>
+                    <div class="row layout-inline">
+                      <div class="col">
+                        <p>Végösszeg:</p>
+                      </div>
+                      <div class="col">89 435 Ft</div>
+                    </div>
+                  </div>
+                </div>
+          
+                <a href="#" class="btn btn-update">Vissza a boltba</a>
+          
+              </div>
+        </div>
+    </div>
+    </div>
 </body>
 
 </html>

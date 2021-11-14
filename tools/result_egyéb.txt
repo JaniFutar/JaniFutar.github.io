@@ -1,0 +1,18 @@
+Tis Mosogatószer 1L		349			assets/Egyéb/tisLemonMosogatószer.jpg
+Korona Gyufa 10db/Csomag		349			assets/Fűszerek/koronaGyufa.jpg
+Príma Szemeteszsák 25L		159			assets/Egyéb/prímaSzemeteszsák25L.jpg
+Príma Szemeteszsák 110L		249			assets/Egyéb/prímaSzemeteszsák110L.jpg
+Príma Szemeteszsák 160L		299			assets/Egyéb/prímaSzemeteszsák160L.jpg
+Protect Rágcsálóírtó - Egér	140g	999			
+Protect Rágcsálóírtó - Patkány	150g	899			
+Protect Hangyaírtó Aeroszol	400ml	1399			
+Protect Darázsírtó Aeroszol	400ml	1599			assets/Egyéb/protectDarázsírtó.jpg
+Protect Légy és Szúnyogírtó Aeroszol	200ml	799			assets/Egyéb/protectRovarírtás.jpg
+Tomi mosópor - fehér	260g	349			assets/Egyéb/tomiMosópor.jpg
+Bonux mosópor - színes	300g	449			assets/Egyéb/bonuxMosópor.jpg
+StarDuo Tolalettpapír	4 tekercs	299			assets/Egyéb/starDuoWCpapír.jpg
+Always Tisztasági betét		699			assets/szépségálpolás/alwaysUltraBetét.jpg
+100 db-os papírzsebkendő		199			assets/Egyéb/müllerKamillásZsebkendő.jpg
+Mazzini Alufólai 10m		249			assets/Egyéb/mazziniAlufólia.jpg
+Mazzini Frissentartó Fólia	100 ív	249			assets/Egyéb/FrissenTartóFólia.jpg
+Domestos		799			assets/Egyéb/domestos.jpg

@@ -1,0 +1,32 @@
+Lucullus Sertéssült Fűszersó 40g		259			assets/Fűszerek/sertéssültFűszersó.jpg
+Orient Grill Fűszersó	20g	99			assets/Fűszerek/grillFűszersó.jpg
+Lucullus Őrölt Szerecsendió	13g	289			assets/Fűszerek/szerecsendióŐrölt.jpg
+Lucullus Morzsolt Tárkonylevél	5g	199			assets/Fűszerek/tárkonylevélMorzsolt.jpg
+Lucullus Őrölt Fahéj	20g	99			assets/Fűszerek/fahéjŐrölt.jpg
+Lucullus Szárított Fokhagyma Granulátum	15g	199			assets/Fűszerek/szárítottFokhagymaGranulátum.jpg
+Orient Őrölt Fahéj	15g	69			assets/Fűszerek/fahétŐröltOrient.jpg
+Lucullus Őrölt Feketebors	20g	149			assets/Fűszerek/feketeborsŐrölt.jpg
+Lucullus Egész Fűszerkömény	20g	99			assets/Fűszerek/köményEgész.jpg
+CsodaKonyha Pörkölt Alappor	35g	199			assets/Fűszerek/pörköltAlappor.jpg
+Orient Őrölt Kömény	20g	99			assets/Fűszerek/köményÖrölt.jpg
+Lucullus Egész Szegfűbors	10g	149			assets/Fűszerek/szegfűborsEgész.jpg
+Lucullus Egész Fehér Mustármag	20g	99			assets/Fűszerek/mustármagEgészFehér.jpg
+Lucullus Flekken Fűszerkeverék	40g	199			assets/Fűszerek/gyorspácFlekkenFűszerkeverék.jpg
+Lucullus Babérlevél	5g	99			assets/Fűszerek/egészBabérlevél.jpg
+Egész Szegfűszeg	10g	159			assets/Fűszerek/egészszegfűszeg.jpg
+Lucullus Sültkrupli Fűszersó - Paprikás	25g	159			assets/Fűszerek/paprikásSültkrumpliFűszersó.jpg
+Lucullus Sültkrupli Fűszersó - Tejfölös	25g	159			assets/Fűszerek/tejfölÍzűSültkrumpliFűszersó.jpg
+Lucullus Morzsolt Bazsalikom	5g	159			assets/Fűszerek/morzsoltBazsalikom.jpg
+Lucullus Egész Feketebors	16g	99			assets/Fűszerek/egészFeketebors.jpg
+Orient Őrölt Feketebors	12g	99			assets/Fűszerek/FeketeborsŐröltOrient.jpg
+Lucullus Étkezési Zselatin	15g	169			assets/Fűszerek/étkezésiZselatin.jpg
+Lucullus Szódabikarbóna	40g	99			assets/Fűszerek/szódabikarbóna.jpg
+Kotányi Gyros Fűszerkeverék	35g	289			assets/Fűszerek/görögSültekGyrosFűszerkeverék.jpg
+Orient Sertéssült Fűszersó	20g	99			assets/Fűszerek/sertéssültFűszersóOrient.jpg
+Orient Curry fűszerkeverék	20g	99			assets/Fűszerek/curry fűszerkeverék.jpg
+Orient Sültcsirke Fűszersó	20g	99			assets/Fűszerek/sültcsirkeFűszersó.jpg
+CsodaKonyha Mexikói Chilisbab Alappor	45g	199			assets/Fűszerek/mexicóiChilisBabAlappor.jpg
+Lucullus Egész Borókabogyó	15g	199			assets/Fűszerek/egészBorókabogyó.jpg
+Orient Őrölt Fahéj	15g	69			assets/Fűszerek/fahétŐröltOrient.jpg
+Orient Egész Kömény	20g	99			assets/Fűszerek/köményEgész.jpg
+Lucullus Morzsolt Majoranna	5g	69			assets/Fűszerek/majorannaMorzsolt.jpg

@@ -1,0 +1,22 @@
+Szentkirályi ásványvíz 1.5L		149			
+Mizse Ásványvíz 1.5L		99			assets/üdítők, ásványvizek/mizse.jpg
+Peridot Lúgos Ásványvíz 1.5L		299			
+Queen Kóla 2.5L		279			assets/üdítők, ásványvizek/queen kóla.jpg
+Queen Narancs 2.5L		279			assets/üdítők, ásványvizek/queen narancs.jpg
+Queen Gyömbér 2.5L		279			assets/üdítők, ásványvizek/queen gyömbér.jpg
+Márka üdítőital 2L - több ízben		259			assets/üdítők, ásványvizek/márka.jpg
+Coca Cola 0,33L		209			/assets/Savanyúságok/coca dobozos.jpg
+Coca Cola 0.5L		279			assets/Savanyúságok/coca05l.jpg
+Pepsi 0.33L		169			assets/Savanyúságok/pepsi03.jpg
+Pepsi Max 0.33L		189			assets/Savanyúságok/pepsimax.jpg
+Pepsi 0.5L		289			assets/Savanyúságok/pepsi05l.jpg
+Pepsi 2.25L		399			assets/üdítők, ásványvizek/pepsi 2,25.jpg
+HeyHo rostos üdítő 1L több ízben		229			assets/Savanyúságok/Heyho rostos.jpg
+Szobi rostos üdítő 1L több ízben		249			assets/Savanyúságok/szobi rostos.jpg
+Szobi paradicsomlé 1L több ízben		389			assets/Savanyúságok/szobiparadicsomlé.jpg
+Sio rostos üdítőital - több ízben		399			assets/üdítők, ásványvizek/siorostos1.jpg
+Szobi szívószálas üdítőital 200 ml - több ízben		99			assets/üdítők, ásványvizek/szobiősziszivoszal.jpg
+TopJoy üdítőital 250 ml - több ízben		399			assets/üdítők, ásványvizek/topjoy1.jpg
+Mira gyógyvíz 0,7 L		399			assets/üdítők, ásványvizek/miragyógyvíz.jpg
+Ferenc József gyógyvíz 0,7 L		399			assets/üdítők, ásványvizek/ferencjózsefgyógyvíz.jpg
+Parádi gyógyvíz 0,7 L		499			assets/üdítők, ásványvizek/parádigyógyvíz.jpg
