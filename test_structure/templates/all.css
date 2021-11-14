@@ -1,9 +1,9 @@
 
 
-{% include 'css/modal.css' %}
-{% include 'css/chart.css' %}
 {% include 'css/base.css' %}
-{% include 'css/elements.css' %}
 {% include 'css/media.css' %}
+
+{% include 'css/modal.css' %}
 {% include 'css/header.css' %}
 {% include 'css/sidebar.css' %}
+{% include 'css/all_goods.css' %}
