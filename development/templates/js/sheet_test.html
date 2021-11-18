@@ -1,0 +1,35 @@
+<script src="googlesheet.js"></script>
+<script>
+
+    // Definiálunk egy függvényt ami majd meghívódik, ha megkaptuk az adatokat
+    function console_log_data(data){
+        // A nyers adatokat átdobjuk a parser függvényünknek
+        data = GoogleSheet.parse_raw_data(data);
+
+        // Kilogoljuk a kapott adatokat (élesben itt nyilván logolás helyett megjelenítjük őket szépen)
+        console.log(data);
+
+        // Így fog kinézni:
+        
+        // [
+        //     {
+        //         discount_date: "2021.06.25",
+        //         discount_price: "150",
+        //         id: "krte",
+        //         img: "",
+        //         name: "Körte",
+        //         price: "200",
+        //         subcategory: "",
+        //         unit: "l",
+        //         unit_price: "100",
+        //         unit_unit: "kg",
+        //     }
+        // ]
+    }
+
+    // Példányosítunk egy szép GoogleSheet osztályt a megfelelő paraméterekkel
+    let sheet = new GoogleSheet('1nwzXhcAlUlxJKY0EsISTkw7IdfRK-dI4ER-snETfFe8', 'AIzaSyD9f3Z2RXXiwv_qtn2BMjx1eBkZlKHkxhw');
+    // És megmondjuk neki, hogy melyik fülről kérünk adatokat
+    // Illetve hogy melyik függvény dolgoyya majd fel a kapott adatokat
+    sheet.get_data_from_sheet('Higénia/Szépségápolás', 'console_log_data');
+</script>
